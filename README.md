@@ -26,3 +26,7 @@
 
 # 어쒐! 한 UI 설계
 ![Rendering preferences pane](https://github.com/ProjectInTheClass/2018SMWUWinter-SooKwift/blob/master/docs/plan/01.png)
+
+# 그게 화면으로 녹아들었어요~ 꺄~~~
+스토리 보드 구성
+

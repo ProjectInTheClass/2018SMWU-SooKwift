@@ -152,7 +152,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1S6-mO-VVQ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3255" y="910"/>
+            <point key="canvasLocation" x="3216" y="1005"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="j1y-IX-GRb">
@@ -426,7 +426,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4qS-NV-Ecb" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1571.25" y="1172.5"/>
+            <point key="canvasLocation" x="2927" y="1794"/>
         </scene>
         <!--Table View Controller-->
         <scene sceneID="As5-Pf-ZzD">
@@ -514,7 +514,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Bbw-6p-m1e" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1957.5" y="1858.75"/>
+            <point key="canvasLocation" x="2398" y="1109"/>
         </scene>
         <!--학교 소개 첫화면-->
         <scene sceneID="W1i-HP-whz">
@@ -575,7 +575,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="we4-7k-yDo" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3216" y="228"/>
+            <point key="canvasLocation" x="3216" y="317"/>
         </scene>
         <!--Food Collection View Controller-->
         <scene sceneID="fEd-Lh-YAl">
