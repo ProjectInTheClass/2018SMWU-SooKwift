@@ -25,8 +25,11 @@
  	
 
 # 어쒐! 한 UI 설계
-![Rendering preferences pane](https://github.com/ProjectInTheClass/2018SMWUWinter-SooKwift/blob/master/docs/plan/01.png)
+![UIMockup](https://github.com/ProjectInTheClass/2018SMWUWinter-SooKwift/blob/master/docs/plan/01.png)
 
 # 그게 화면으로 녹아들었어요~ 꺄~~~
 스토리 보드 구성
+![Storyboard](https://github.com/ProjectInTheClass/2018SMWUWinter-SooKwift/blob/master/docs/storyboard/01.png)
+
+이 화면은 말이죠.. 어쩌구 저쩌구...
 
