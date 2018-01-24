@@ -27,9 +27,23 @@
 # 어쒐! 한 UI 설계
 ![UIMockup](https://github.com/ProjectInTheClass/2018SMWUWinter-SooKwift/blob/master/docs/plan/01.png)
 
+
 # 그게 화면으로 녹아들었어요~ 꺄~~~
 스토리 보드 구성
 ![Storyboard](https://github.com/ProjectInTheClass/2018SMWUWinter-SooKwift/blob/master/docs/storyboard/01.png)
 
 이 화면은 말이죠.. 어쩌구 저쩌구...
+
+# 실제 앱 화면을 보여드립니다
+## 대나무 숲
+![board](https://github.com/ProjectInTheClass/2018SMWUWinter-SooKwift/blob/master/docs/app/01.png)
+
+우리들의 비밀 이야기, 대나무 숲
+
+## 맛집 탐방
+![taste](https://github.com/ProjectInTheClass/2018SMWUWinter-SooKwift/blob/master/docs/app/02.png)
+
+# 동영상
+
+# 팀원 소개
 
