@@ -44,7 +44,7 @@
 ![taste](https://github.com/ProjectInTheClass/2018SMWUWinter-SooKwift/blob/master/docs/app/02.png)
 
 # 동영상
-![Video-Demo](https://www.youtube.com/watch?v=vwLpQ7llmJI&feature=youtu.be)
+https://www.youtube.com/watch?v=vwLpQ7llmJI&feature=youtu.be
 
 # 팀원 소개
 나야 나!
